@@ -18,3 +18,5 @@ Contents
    :ref:`Functions`
    :ref:`Usage`
    :ref:`API`
+
+   :ref:`startup`
