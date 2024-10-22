@@ -3,6 +3,8 @@
 Usage
 =====
 
+1. :ref:`startup`
+
 .. _startup:
 
 Startup
