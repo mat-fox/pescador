@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
 
-   :ref:`layout`
-   Functions
-   Usage
-   API
+   :ref:`Layout`
+   :ref:`Functions`
+   :ref:`Usage`
+   :ref:`API`
