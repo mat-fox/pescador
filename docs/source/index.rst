@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
 
-   Layout
+   :doc:`layout`
    Functions
    Usage
    API
