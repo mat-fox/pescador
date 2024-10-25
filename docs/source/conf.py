@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Pescador'
+copyright = '2024, mat-fox'
+author = 'mat-fox'
 
 release = '0.1'
 version = '0.1.0'
