@@ -10,6 +10,7 @@ Electrical scheme
 -----
 
 .. image:: media/Electrical schematic.jpg
+  :width: 400
 
 Communications scheme
 ------
