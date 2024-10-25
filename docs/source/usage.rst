@@ -23,6 +23,9 @@ Startup
 6. Turn on RCCB
 7. Turn on MCBs for 24V and 12V power supplies
 8. Turn on BlackBox X32 motor power
+
+**Communications on**
+
 9. Plug USB hub into laptop
 
 
