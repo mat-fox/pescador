@@ -14,5 +14,5 @@ Electrical scheme
 
 Communications scheme
 ------
-.. image:: media/Comms_scheme.jpg
+.. image:: media/Comms_scheme_fullres.jpg
   :width: 1000
