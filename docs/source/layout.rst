@@ -15,4 +15,4 @@ Electrical scheme
 Communications scheme
 ------
 .. image:: media/Comms_scheme.jpg
-  :width: 400
+  :width: 1000
