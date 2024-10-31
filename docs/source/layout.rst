@@ -11,7 +11,8 @@ Physical layout
 
 Electrical scheme
 -----
-
+.. image:: media/Power_scheme.jpg
+  :width: 1000
 .. image:: media/Electrical_scheme_harmonized.jpg
   :width: 400
 
