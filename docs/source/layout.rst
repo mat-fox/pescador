@@ -6,6 +6,9 @@ Layout
 Physical layout
 -----
 
+.. image:: media/Physical_scheme.jpg
+  :width: 1000
+
 Electrical scheme
 -----
 
