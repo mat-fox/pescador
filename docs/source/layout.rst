@@ -7,7 +7,7 @@ Physical layout
 -----
 
 .. image:: media/Physical_scheme.jpg
-  :width: 1000
+  :width: 800
 
 Electrical scheme
 -----
